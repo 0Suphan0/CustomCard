@@ -4,6 +4,14 @@ A simple card application was developed to understand how the React framework wo
 
 React framework'un nasıl çalıştığını anlamak, component kavramını öğrenmek ve propsları kavramak için basit bir kart uygulaması geliştirildi. Bu proje için React ve Bulma CSS kütüphanesi kullanıldı.
 
+## Project Content- Proje İçeriği 
+
+- React Components
+- React Props
+- JavaScript Destructuring
+- Bulma CSS
+
+
 ## Ekran Görüntüleri (Screenshots)
 
 <img src="ProjectSS/reactss.png" width="auto">
