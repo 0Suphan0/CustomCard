@@ -12,7 +12,7 @@ React framework'un nasıl çalıştığını anlamak, component kavramını öğ
 - Bulma CSS
 
 
-## Ekran Görüntüleri (Screenshots)
+## Screenshots-Ekran Görüntüleri
 
 <img src="ProjectSS/reactss.png" width="auto">
   
